@@ -1,0 +1,8 @@
+{
+  "name": "Tata Usaha — Data dan Informasi Transfer Santri",
+  "description": "Sistem administrasi keuangan transfer wali santri untuk pesantren: pencatatan transfer masuk, pemisahan putra/putri, kontrol status pengambilan bekal dan SPP, autentikasi 3 level akses, serta laporan keuangan PDF/Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
